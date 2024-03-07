@@ -1,3 +1,2 @@
 # Planning
-<html>
-fjkdgtesting
+Meant for work accountability.

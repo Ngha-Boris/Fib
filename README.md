@@ -11,7 +11,7 @@ Fibonacci
 This application is build using rust, it is aimed at generating fibonacci numbers. It is also aimed at provide a fibonacci number for a value which is put in by the user.
 
 # FEATURE(S)
-Genarate fibonacci numbers
+Genarate fibonacci numbers.
 
 # INSTALLATION
         Intall rust:
